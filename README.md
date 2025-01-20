@@ -70,7 +70,7 @@ Before setting up the project, ensure you have the following installed:
     docker run -p 5001:5001 lstm-forecast
     ```
     
-3. **  Navigate to the React frontend directory**:
+3. **Navigate to the React frontend directory**:
     ```bash
     Copy
     cd src/React
